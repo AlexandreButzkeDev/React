@@ -1,3 +1,6 @@
+# React
+Este é um projeto que fiz, com objetivo de colocar em pratica meus aprendizados em React
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
